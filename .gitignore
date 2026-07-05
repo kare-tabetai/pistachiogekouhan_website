@@ -1,11 +1,15 @@
 # OS
 .DS_Store
-Thumbs.DS_Store
-.db
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
 
 # Editor
 .vscode/
 .idea/
+*.swp
+*.swo
 
 # Logs
 *.log
@@ -13,3 +17,7 @@ Thumbs.DS_Store
 # Environment
 .env
 .env.*
+
+# Local temporary files
+*.tmp
+*.temp
